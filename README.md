@@ -1,8 +1,23 @@
 # awesome-data-structures
-Simple awesome-data-structures tool
+
+## Description
+This project is a simple tool for implementing various data structures in an efficient manner.
+
+## Features
+- Implementation of common data structures such as Stack, Queue, Linked List, etc.
+- Easy to use and integrate into other projects.
+
+## Tech Stack
+- Python
+
+## Usage
+To use this tool, clone the repository and run the examples provided in the documentation.
+
+## Future Plans
+- Expand with more data structures
+- Optimize existing implementations
 
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
